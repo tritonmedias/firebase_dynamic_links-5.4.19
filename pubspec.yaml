@@ -16,7 +16,7 @@ environment:
 dependencies:
   firebase_core: ^2.27.2
   firebase_core_platform_interface: ^5.0.0
-  firebase_dynamic_links_platform_interface: ^0.2.6+27
+  firebase_dynamic_links_platform_interface: ^0.2.6+24
   flutter:
     sdk: flutter
   meta: ^1.8.0
